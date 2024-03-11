@@ -1,0 +1,1 @@
+Para poder usar el codigo tienes que generar la contraseña en tu gmail, en verificacion de dos pasos, y en lo ultimo generar contraseña
